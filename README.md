@@ -2,14 +2,6 @@
 
 My SQL learning journey.
 
-This repository contains my notes, exercises, and practical examples while studying SQL.
-
----
-
-# 💾 SQL Fundamentals
-
-My SQL learning journey.
-
 This repository contains my study notes, exercises, and practical projects while learning SQL.
 
 ---
