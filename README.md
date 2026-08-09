@@ -1,4 +1,4 @@
-# 💾 SQL Fundamentals
+# SQL Fundamentals
 
 My SQL learning journey.
 
@@ -6,7 +6,7 @@ This repository contains my study notes, exercises, and practical projects while
 
 ---
 
-## 📚 Topics
+## Topics
 
 - SQL Basics
 - Databases
